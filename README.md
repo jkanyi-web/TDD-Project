@@ -45,6 +45,12 @@
 
 ### Key Features <a name="key-features"></a>
 - Factorial feature that returns the factorial of a give number
+- Reverse feature that takes a string and returns the string reversed
+- fizzbuzz that takes one argument, an integer N, and returns a string. The returned string is constructed following these rules:
+When N is divisible by 3, return "fizz".
+When N is divisible by 5, return "buzz".
+When N is divisible by 3 and 5, return "fizzbuzz".
+Any other case, return N as a string (e.g. say N is 7 then return "7").
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
