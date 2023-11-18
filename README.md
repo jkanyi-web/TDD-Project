@@ -44,7 +44,7 @@
 
 
 ### Key Features <a name="key-features"></a>
-
+- Factorial feature that returns the factorial of a give number
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,7 +95,7 @@ To install the project's dependencies, with:
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-
+- More functionality like Trim for strings
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
